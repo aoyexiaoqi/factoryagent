@@ -1,0 +1,7 @@
+date,line,product,planned,actual,defects
+2026-10-20,L1,Widget-A,500,486,9
+2026-10-20,L2,Widget-B,400,352,21
+2026-10-20,L3,Widget-A,300,298,4
+2026-10-21,L1,Widget-A,500,495,7
+2026-10-21,L2,Widget-B,400,361,18
+2026-10-21,L3,Widget-C,300,300,2
